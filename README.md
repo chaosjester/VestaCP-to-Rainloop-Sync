@@ -16,5 +16,6 @@ Edit config.php with required information
 
 Upload both files to your server
 
-Create cronjob "php -q /path/to/rainloopsync.php" with your desired sync frequency
+Create cronjob "php -q /path/to/rainloopsync.php" or "curl http(s)://your.rainloop.com/rainloop.sync.php" with your desired sync frequency
+
 
