@@ -1,4 +1,4 @@
-# VestaCP-to-Rainloop-Cync
+# VestaCP-to-Rainloop-Sync
 Simple PHP script to sync VestaCP domains to the Webmail client Rainloop
 
 # Install instructions
